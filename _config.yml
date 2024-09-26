@@ -95,4 +95,4 @@ category_archive:
   path: /categories/
 tag_archive:
   type: liquid
-  path: /categories/
+  path: /tags/
