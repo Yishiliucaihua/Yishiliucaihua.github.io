@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 浮生若梦
-email:
+title: 意识流菜花
+email: yishiiliucaihua@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  记录生活。
+  保持更新。
 twitter_username: NaN
 github_username: Yishiliucaihua
 minimal_mistakes_skin: default
@@ -56,34 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "张嘉墀"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "生活还是很好玩的。"
+  name   : "Jianhua Wang"
+  avatar : "/assets/images/jianhua.jpg"
+  bio    : "work life balance"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/eftales"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Yishiliucaihua"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eftales"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts

@@ -1,9 +1,6 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 ---
 
-小小的编程爱好者。
-
-春宵苦短，少年前进吧！
-
+Created and maintained by Jianhua Wang.
