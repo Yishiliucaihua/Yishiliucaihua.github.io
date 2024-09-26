@@ -3,8 +3,7 @@ title: "Publication"
 permalink: /publi/
 ---
 
-### Selected Publications (\* indicates corresponding author)
-
+### Selected Publications (\* indicates corresponding author)</br>
 * **Efficient Multi-query Oriented Continuous Subgraph Matching**.
 
 Ziyi Ma, Jianye Yang, Xu Zhou, Guoqin Xiao, **Jianhua Wang**, Liang Yang, Kenli Li, and Xuemin Lin (**ICDE** 2024)
