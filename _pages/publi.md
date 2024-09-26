@@ -3,9 +3,8 @@ title: "Publication"
 permalink: /publi/
 ---
 
-### Selected Publications (\* indicates corresponding author)</br>
-* **Efficient Multi-query Oriented Continuous Subgraph Matching**.
-
+### Selected Publications (\* indicates corresponding author)
+* **Efficient Multi-query Oriented Continuous Subgraph Matching**.</br>
 Ziyi Ma, Jianye Yang, Xu Zhou, Guoqin Xiao, **Jianhua Wang**, Liang Yang, Kenli Li, and Xuemin Lin (**ICDE** 2024)
 
 * **Efficient Maximal Biclique Enumeration on Large Signed Bipartite Graphs**.
