@@ -4,8 +4,7 @@ permalink: /intro/
 ---
 
 ### 联系方式
-**Tel:** +86 15835211595
-
+**Tel:** +86 15835211595\
 **Email:** yishiliucaihua@163.com
 
 ### Short Biography
