@@ -1,66 +1,23 @@
 ---
-title: "Introduction"
-permalink: /intro/
+title: "Publication"
+permalink: /publi/
 ---
 
-### 联系方式
-**Tel:** +86 15835211595
+### Selected Publications (\* indicates corresponding author)
+* **Efficient Multi-query Oriented Continuous Subgraph Matching**.\
+Ziyi Ma, Jianye Yang, Xu Zhou, Guoqin Xiao, **Jianhua Wang**, Liang Yang, Kenli Li, and Xuemin Lin (**ICDE** 2024)
 
-**Email:** yishiliucaihua@163.com
+* **Efficient Maximal Biclique Enumeration on Large Signed Bipartite Graphs**.\
+**Jianhua Wang**, Jianye Yang, Zhaoquan Gu, Dian Ouyang, Zhihong Tian, and Xuemin Lin (**TKDE** 2024)
 
-### Short Biography
-**Jianhua Wang** (王建华) is currently working at the College of Computer Science, Inner Mongolia University, China.
-His research interests include large graph data analytics and data similarity query processing.
+* **Efficient Maximal Biclique Enumeration on Large Uncertain Bipartite Graphs**.\
+**Jianhua Wang**, Jianye Yang, Ziyi Ma, Chengyuan Zhang, Shiyu Yang, and Wenjie Zhang (**TKDE** 2023)
 
-### 教育背景
-* **2020.09-2024.06**
+* **Efficient Maximum Edge-Weighted Biclique Search on Large Bipartite Graphs**.\
+**Jianhua Wang**, Jianye Yang, Chengyuan Zhang, and Xuemin Lin (**TKDE** 2023)
 
-湖南大学 (HNU)
+* **Top-k Tree Similarity Join**.\
+**Jianhua Wang**, Jianye Yang, and Wenjie Zhang (**CIKM** 2021)
 
-计算机科学与技术
-
-工学博士
-
-导师: 章成源, 杨建业
-
-研究方向：大规模图数据分析与挖掘
-
-* **2015.09-2018.06**
-
-四川大学 (SCU)
-
-计算机科学与技术
-
-理学硕士
-
-导师: 朱敏
-
-研究内容：计算机图形学、数据可视分析
-
-* **2011.09-2015.06**
-
-东北林业大学(NEFU)
-
-计算机科学与技术
-
-工学学士
-
-导师: 李丹
-
-### 工作经历
-* **2018.07-2019.12**
-
-tap4fun (成都)
-
-软件开发工程师
-
-工作任务：负责某SLG游戏的开发及优化
-
-* **2024.09-now**
-
-内蒙古大学 计算机学院
-
-讲师
-
-### 学术服务
-* Invited journal reviewers: TKDE
+* **快速百分比靠近软阴影绘制算法**.\
+朱敏, **王建华**\*, 李晓伟, 田伟 (**工程科学与技术** 2019)
