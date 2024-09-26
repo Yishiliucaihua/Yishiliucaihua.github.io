@@ -53,7 +53,7 @@ plugins:
   - jekyll-gist
   # - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+  # - jekyll-include-cache
 
 author:
   name   : "Jianhua Wang"
@@ -68,7 +68,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/eftales"
+      url: "https://github.com/Yishiliucaihua"
 
 defaults:
   # _posts
