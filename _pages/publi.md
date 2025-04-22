@@ -4,6 +4,10 @@ permalink: /publi/
 ---
 
 ### Selected Publications (\* indicates corresponding author)
+
+* **Durable Community Search on Temporal Graphs**.\
+**Jianhua Wang**, Jianye Yang, Wu Yao, Ziyi Ma, Zhaoquan Gu, and Chengyuan Zhang (**DASFAA** 2025)
+
 * **Efficient Multi-query Oriented Continuous Subgraph Matching**.\
 Ziyi Ma, Jianye Yang, Xu Zhou, Guoqin Xiao, **Jianhua Wang**, Liang Yang, Kenli Li, and Xuemin Lin (**ICDE** 2024)
 

@@ -9,7 +9,7 @@ permalink: /intro/
 
 ### Short Biography
 **Jianhua Wang** (王建华) is currently working at the College of Computer Science, Inner Mongolia University, China.\
-His research interests include large graph data analytics and data similarity query processing.
+His research interests include large graph analytics and visualization.
 
 ### 教育背景
 * **2020.09-2024.06**\
